@@ -1,7 +1,7 @@
 # Hello, I'm Matt! 👋🏼
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=matty-ross&show_icons=true&theme=radical" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matty-ross&exclude_repo=bpr-python-scripts&layout=compact&theme=radical" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matty-ross&exclude_repo=bpr-python-scripts&langs_count=10&layout=compact&theme=radical" />
 
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
