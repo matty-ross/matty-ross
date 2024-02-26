@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Stimulus-FBF7F0?style=for-the-badge&logo=stimulus&logoColor=black)
 ### Web - backend
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/MySQL-2B5D80?style=for-the-badge&logo=mysql&logoColor=E97B00)  
+![](https://img.shields.io/badge/MySQL-2B5D80?style=for-the-badge&logo=mysql&logoColor=white)  
 ![](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ### Scripting
 ![](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
@@ -32,7 +32,7 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## Design programs I have experience with
+## Design
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
