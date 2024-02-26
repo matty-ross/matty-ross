@@ -1,7 +1,9 @@
 # Hello, I'm Matt! 👋🏼
 
-![](https://github-readme-stats.vercel.app/api?username=matty-ross&show_icons=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matty-ross&exclude_repo=bpr-python-scripts&langs_count=10&layout=compact&theme=dracula)
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=matty-ross&show_icons=true&theme=dracula" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matty-ross&exclude_repo=bpr-python-scripts&langs_count=10&layout=compact&theme=dracula" height="200">
+</div>
 
 ## Languages & Frameworks
 ### Desktop
