@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/Stimulus-FBF7F0?style=for-the-badge&logo=stimulus&logoColor=black)
 ### Web - backend
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-2B5D80?style=for-the-badge&logo=mysql&logoColor=white)  
 ![](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ### Scripting
