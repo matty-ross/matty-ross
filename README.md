@@ -1,4 +1,4 @@
-# Hello, I'm Matt! 👋🏼
+# Hello, I'm Matty! 👋🏼
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=matty-ross&show_icons=true&theme=dracula" height="200">
