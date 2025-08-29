@@ -2,7 +2,7 @@
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=matty-ross&show_icons=true&theme=dracula" height="200">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matty-ross&exclude_repo=bpr-python-scripts&langs_count=10&layout=compact&theme=dracula" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matty-ross&exclude_repo=bpr-python-scripts,bpr-open-mods&langs_count=10&layout=compact&theme=dracula" height="200">
 </div>
 
 ## Languages & Frameworks
@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 ![](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/Turbo-FBF7F0?style=for-the-badge&logo=turbo&logoColor=black)
 ![](https://img.shields.io/badge/Stimulus-FBF7F0?style=for-the-badge&logo=stimulus&logoColor=black)
 ### Web - backend
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -39,8 +39,3 @@
 ## Design
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
-
-## Browsers
-![](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
-![](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
